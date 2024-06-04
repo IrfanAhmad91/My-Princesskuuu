@@ -3,7 +3,7 @@ $(document).ready(function () {
      * Main variables
      */
     var content = [{
-        title: "Ini permintaan maaf akuu untuk yang kemarinn",
+        title: "Ini permintaan maaf akuu untuk yang kemarinn dan.....",
         desc: ""
     }, {
         title: "maaf",
